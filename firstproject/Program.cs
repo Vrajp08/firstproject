@@ -10,7 +10,7 @@ namespace firstproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("helloooooooo");
+            Console.WriteLine("hello world");
             Console.ReadLine();
         }
     }
